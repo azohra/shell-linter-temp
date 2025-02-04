@@ -1,6 +1,6 @@
 name: 'Shell Linter'
 description: 'Execute lint check on shell scripts using ShellCheck'
-author: 'ep-mobile'
+author: 'Azadeh Bagheri'
 inputs:
   path:
     description: 'Execute lint check on a specific file or folder.'

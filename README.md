@@ -21,7 +21,6 @@ This repository has moved from **`azohra/shell-linter`** to **`Azbagheri/shell-l
 ```
 
 We sincerely apologize for any inconvenience this has caused.
-
 <br>
 
 # Usage
